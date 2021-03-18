@@ -7,8 +7,8 @@ git clone the repo...
 
 No, simply download two files: 
 
-index.html
-cookie.js
+- index.html
+- cookie.js
 
 And open the index.html in the browser
 
